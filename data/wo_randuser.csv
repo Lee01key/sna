@@ -1,5 +1,4 @@
 source,target,weight,match,type
-Monkey,Kira,1,0,Directed
 feeder,._.,1,71,Directed
 Miracle-,4Head,1,86,Directed
 Fluffy,Horse,1,121,Directed
@@ -46,10 +45,12 @@ asdf,Apple,1,608,Directed
 322,Saitama,1,632,Directed
 Jesus,LOL,2,654,Directed
 Ceyler,QQ,1,656,Directed
+Gary,Alucard,2,670,Directed
 Baxter,Madara,2,677,Directed
 4Head,=),1,684,Directed
 AirmailMRCOOL,Noob,1,685,Directed
 Fred,Ｂ Ｅ Ｎ Ｎ,1,697,Directed
+West Street Variety,Valar Morghulis,1,727,Directed
 1,?,1,729,Directed
 1,Jerry,1,729,Directed
 Rorschach,0.0,2,739,Directed
@@ -144,7 +145,6 @@ Av,Superior Highlander Genes,1,2316,Directed
 leviosaw,Drake,2,2342,Directed
 leviosaw,Jack Sparrow,2,2342,Directed
 ice,BabyRage,1,2354,Directed
-Bunny of Doom,U OK NERD?,1,2366,Directed
 Caped Baldy,zzzzzzzzz,1,2375,Directed
 JasCaLL,Varian Wrynn,3,2416,Directed
 Mlcrosoft,s4tarash,1,2418,Directed
@@ -222,6 +222,7 @@ Moe-Chan,Boobs-chan,1,3660,Directed
 Matthew,Gates,1,3681,Directed
 Clueless,Virus,2,3695,Directed
 @hiro,kk,1,3715,Directed
+Alpha,Zero,1,3722,Directed
 Mottley,VdoubleI,1,3725,Directed
 Number Juan Doto Player,420 booty wizard,2,3727,Directed
 Number Juan Doto Player,Terpcasl,2,3727,Directed
@@ -260,7 +261,6 @@ Tzu,ggwp,3,4260,Directed
 asdf,wizn,2,4291,Directed
 WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW,Scrotes,2,4312,Directed
 Schlebben.XD,Spooderman,1,4363,Directed
-Sindor,???????,1,4406,Directed
 Jim Carry,Gucci MagiK,1,4408,Directed
 Jim Carry,Kappa,1,4408,Directed
 jaynanners,x-0ne (G.O.D),7,4425,Directed
@@ -270,7 +270,6 @@ Unknown,X,2,4495,Directed
 Emil,twitch.tv/wingbladedota,14,4511,Directed
 Scrotes,Vigoss,1,4515,Directed
 Apple,Dracula,1,4516,Directed
-BigEyesShortCock,......,2,4523,Directed
 D.,xd,3,4568,Directed
 RFA,Deadpool,2,4605,Directed
 RFA,dotato,2,4605,Directed
@@ -354,6 +353,7 @@ dream is ded,LOVE-is-EZ but I hate you,2,5772,Directed
 Drake,KingJonesGaming,3,5811,Directed
 Drake,Saltz,3,5811,Directed
 Drake,bourgeoisie,3,5811,Directed
+[DG]Hoppen,...,1,5821,Directed
 Plata O Plomo,Ice,1,5828,Directed
 Dota 2 Psychologist,Do --,1,5830,Directed
 Slayer,Diskover,1,5840,Directed
@@ -408,7 +408,6 @@ Dota 2 Psychologist,Carnage,1,6383,Directed
 Dota 2 Psychologist,cc,1,6383,Directed
 .,Tahurtz,1,6398,Directed
 .,"all muted, stealing mid, helo",1,6423,Directed
-Sindor,Kirito,1,6434,Directed
 Dark,TB.Thành Lê,2,6475,Directed
 Rob,Tom,1,6478,Directed
 Bassie,YO | Fluffy Kitten,1,6493,Directed
@@ -464,6 +463,7 @@ Pourosis,Milk,2,6955,Directed
 NotLikeThis,Bob,1,6962,Directed
 NotLikeThis,Naylor,1,6962,Directed
 1738,Reaper,1,6963,Directed
+Chaos,TheBenGerman,4,6989,Directed
 Red,PsyDuck,1,6992,Directed
 Red,SOMETIMES,1,6992,Directed
 PaLiTRoQuE,El lechero,2,6994,Directed
@@ -570,11 +570,16 @@ Dondo,J.R.,1,8250,Directed
 beaverknight,Dendi,1,8275,Directed
 ice,Hiruma,1,8285,Directed
 620,aTly,1,8293,Directed
+LoveAV road to 6k,Icarus-,1,8295,Directed
+LoveAV road to 6k,Snoopy,1,8295,Directed
+LoveAV road to 6k,i play on 480apm,1,8295,Directed
 BiG BaNaNna !,Pineapple KAMIKAZE,1,8350,Directed
 Limitedmoon,KappaRoss,1,8366,Directed
 Rage,b1ngo,2,8377,Directed
 MOLESTERMAN69,GGWP,2,8390,Directed
+LoveAV road to 6k,i play on 480apm,6,8426,Directed
 ZeTo,3K.Zvan.TheNight,2,8443,Directed
+David K,noob,2,8458,Directed
 Daemonum Tert,Jake,2,8462,Directed
 Ceyler,ALWAYSWANNAFLY,1,8469,Directed
 KKK,Supercalifragalisticexpialadoci,1,8493,Directed
@@ -582,6 +587,7 @@ KKK,Supercalifragalisticexpialadoci,1,8493,Directed
 ....,YOLO,2,8498,Directed
 Csanszi,-.-,2,8502,Directed
 Csanszi,NRL,2,8502,Directed
+Zero,Snipe Desu~,1,8508,Directed
 HorseFeeder,Rage,2,8584,Directed
 Carl,Rocco - Davaide and conquer,1,8602,Directed
 MrMkay,Sara :),2,8609,Directed
@@ -597,6 +603,8 @@ Nexr,No,2,8702,Directed
 Nexr,Totti#Smauking dat Seaweed,2,8702,Directed
 Bob™,Cloud,1,8712,Directed
 RollarN^,Lars-Olof,1,8743,Directed
+David K,< blank >,3,8797,Directed
+David K,Kirito,3,8797,Directed
 ThaddeusV,rowanyourboats,2,8801,Directed
 YOLO,Cristyx,2,8840,Directed
 |||||||||||||||||||||||||||||||,PuttPuttPutt,1,8890,Directed
@@ -649,7 +657,6 @@ Peter,space cowboy,1,9407,Directed
 Uriziel,Pikachu,1,9424,Directed
 Splinter,Medivh,1,9461,Directed
 LAABANI,tsilokki,2,9480,Directed
-Kodi,doodla,1,9506,Directed
 scrub,Q,1,9512,Directed
 Galbatoriks,ok,1,9517,Directed
 ?????,gohanaragorn,1,9520,Directed
@@ -662,6 +669,7 @@ Totti#Smauking dat Seaweed,Jaythejackass,1,9674,Directed
 K,TSF.theSUNZI#NobodysHome,4,9759,Directed
 Kaboom,Empyrean,1,9778,Directed
 ITS BLACK THUNDERRRRRRRR,SLAM,4,9789,Directed
+"Hi, Can I have mossarella stick",Zero,7,9821,Directed
 The Todd,where were you when i was walki,2,9825,Directed
 [A]dmiral Bullshit,[W],2,9851,Directed
 [A]dmiral Bullshit,d7,2,9851,Directed
@@ -675,6 +683,7 @@ JasCaLL,Varian Wrynn,1,10005,Directed
 Firefix,s1m13,1,10007,Directed
 Bruce Wayne,Van Dyke Brown,1,10036,Directed
 One Punch Man,Road to 4k,1,10041,Directed
+D.,TheBenGerman,3,10083,Directed
 King Wizard,L,5,10101,Directed
 ZeTo,Law,1,10146,Directed
 Firefix,s1m13,2,10254,Directed
@@ -709,6 +718,7 @@ Bob Ross,Miracle-,5,10682,Directed
 Ronny,Justice,2,10765,Directed
 Black Jesus,TINKLES,2,10779,Directed
 Thrower,Z,1,10807,Directed
+CHI LONG QUA,Zero,2,10816,Directed
 King Kunta,The Angler,2,10820,Directed
 kaztah,Bulls_Eye,1,10829,Directed
 snoopRat,Panda,1,10843,Directed
@@ -757,12 +767,14 @@ SNAAAAKE,Carl,1,11589,Directed
 Juca,¯\_(ツ)_/¯,1,11607,Directed
 TINKLES,kld,1,11614,Directed
 SD.merlin,???,1,11627,Directed
+Bleezieeeeeeeeee,Zero,5,11640,Directed
 Bleezieeeeeeeeee,soy papá,5,11640,Directed
 Yung Lean,Ehh!! What's up doc?,2,11648,Directed
 Miley,Clouds,14,11657,Directed
 Miley,jd,14,11657,Directed
 AirmailMRCOOL,J.,1,11677,Directed
 Deez_Nuts,Rampage,8,11703,Directed
+Bleezieeeeeeeeee,Zero,18,11705,Directed
 Bleezieeeeeeeeee,confessor,18,11705,Directed
 Bleezieeeeeeeeee,soy papá,18,11705,Directed
 Ren,fake world,1,11724,Directed
@@ -798,6 +810,7 @@ Internet Explorer,jaynanners,2,12150,Directed
 Banyu,Fatality,2,12185,Directed
 Madao,XD,1,12196,Directed
 Eagle,FredJ,1,12216,Directed
+Eagle,West Street Variety,1,12216,Directed
 Clueless,Virus,6,12259,Directed
 Standin.ragha,Defensif^,1,12293,Directed
 Standin.ragha,Nethersp@wn,1,12293,Directed
@@ -844,6 +857,7 @@ I mute everyone,Bloop,1,12743,Directed
 xd,dez,3,12775,Directed
 Psycho,PANDA,3,12797,Directed
 PUNX,Heisenberg,1,12817,Directed
+Lucifer,Gary,1,12818,Directed
 Doge,Pain,3,12846,Directed
 QualtroHead,asd,1,12847,Directed
 fensji,[A]dmiral Bullshit,1,12931,Directed
@@ -961,6 +975,7 @@ Cloud,Pablo,1,14813,Directed
 Perfect Is Shit,"Hi, Can I have mossarella stick",1,14818,Directed
 Drake,twitch.tv/pesdota #Hope,2,14834,Directed
 MyMeK,WHAT IS LOVE?,1,14860,Directed
+Sun,HolloW,1,14886,Directed
 B-Rabbit,bloodhound,1,14893,Directed
 mylo,Döner,2,14930,Directed
 Air,chicken2000,1,14959,Directed
@@ -986,7 +1001,6 @@ Smile,sabacka,2,15219,Directed
 Kabuki warrior,Sentinel,1,15243,Directed
 Kabuki warrior,You Know I Mean It,1,15243,Directed
 Karll,Blondy,1,15297,Directed
-Noah,Ehh!! What's up doc?,1,15307,Directed
 ????,TrainTracksOverPiggyBacks,1,15320,Directed
 Frazer,Rawrtajgur,1,15327,Directed
 Miley,Clouds,6,15334,Directed
@@ -1168,9 +1182,6 @@ RED,YBP,1,17620,Directed
 Valkyrie,Jack,3,17643,Directed
 Valkyrie,^_^,3,17643,Directed
 Cutie Kitty Sylveon x,Big Boss,1,17652,Directed
-Alone,MyMeK,1,17673,Directed
-Alone,S,1,17673,Directed
-Alone,qwe,1,17673,Directed
 322,happy little clouds,4,17705,Directed
 Road to Al-Qaeda,El Dude,1,17741,Directed
 Kenny,Flóki,3,17748,Directed
@@ -1243,6 +1254,7 @@ Miley,jd,1,18800,Directed
 Broods,"Jk, the Resilience ₪",4,18816,Directed
 Clockwerk Orange,sweg magician,1,18836,Directed
 iPeon_GM,Hans Moleman,1,18915,Directed
+David K,Eagle,1,18919,Directed
 Gygex,xd,1,18941,Directed
 Skiper,.Bench,3,18963,Directed
 Skiper,"Jk, the Resilience ₪",3,18963,Directed
@@ -1270,7 +1282,6 @@ Chewie,Huh?,1,19266,Directed
 .,11,1,19295,Directed
 .,DIabOluS,1,19295,Directed
 .,Hero,1,19295,Directed
-U OK NERD?,Bunny of Doom,1,19366,Directed
 strawberry bonbons,happychappy,1,19367,Directed
 ?????????,?????,1,19374,Directed
 5to7,B-Rabbit,1,19432,Directed
@@ -1287,6 +1298,7 @@ Gates,Boss,1,19504,Directed
 gohanaragorn,qq,1,19517,Directed
 Baxter,Daddy,1,19536,Directed
 Milo,Never Lucky,1,19557,Directed
+Providence,Daddy,3,19569,Directed
 Pain,Shadow,9,19644,Directed
 Mlcrosoft,s4tarash,1,19660,Directed
 "Hi, Can I have mossarella stick",Splinter,1,19687,Directed
@@ -1339,7 +1351,6 @@ DKD,#TRNDSTTR,1,20194,Directed
 TBD,Raiin,6,20205,Directed
 Darknesses,asdf,1,20211,Directed
 Death,????,1,20246,Directed
-Whatever,Bunny of Doom,1,20254,Directed
 Whatever,U OK NERD?,1,20254,Directed
 Locklear,ツ,1,20256,Directed
 "REISE, REISE",G,3,20257,Directed
@@ -1372,6 +1383,8 @@ I just want to be happy,Rizwanovich,2,20508,Directed
 I just want to be happy,Sir Pudgealot,2,20508,Directed
 I just want to be happy,Tick Tock,2,20508,Directed
 Messiah,X,2,20510,Directed
+TheBenGerman,Snoopy,2,20534,Directed
+TheBenGerman,grillz,2,20534,Directed
 Maybe,@hiro,1,20540,Directed
 Maybe,Mizu,1,20540,Directed
 xx,trashcan,1,20544,Directed
@@ -1446,6 +1459,7 @@ Doge,misseypeazy,1,21460,Directed
 居家男人,KutTaoLang,2,21485,Directed
 Phantom,El Dude,4,21512,Directed
 Phantom,Road to Al-Qaeda,4,21512,Directed
+Gary,Light,3,21542,Directed
 <>,Daddy,1,21551,Directed
 WHAT?!,< blank >,1,21566,Directed
 Madara,NRL,2,21567,Directed
@@ -1508,6 +1522,7 @@ bneutrality,NotLikeThis,3,22464,Directed
 KLiO,emge,2,22472,Directed
 Lucifer,Floki,1,22486,Directed
 N A,Silver,4,22497,Directed
+Hans Moleman,Zero,2,22529,Directed
 Hans Moleman,iPeon_GM,2,22529,Directed
 ATC,I mute everyone,1,22540,Directed
 .Bench,Smaug,1,22580,Directed
@@ -1548,6 +1563,7 @@ Alucard,King,1,23091,Directed
 000,to6eto,1,23121,Directed
 Frank,Moongazer,2,23135,Directed
 Karl,Mirakuru#Pray4Paris,2,23174,Directed
+Gary,Varian Wrynn,2,23191,Directed
 Dave,Doge,2,23212,Directed
 Dave,Nek-Ro-Sin,2,23212,Directed
 DKD,Charlie,1,23215,Directed
@@ -1590,6 +1606,8 @@ Cau's Be's Hay's Sua's,...,1,23820,Directed
 Happy,Tzu,1,23823,Directed
 Papa John,Darkwing Duck,1,23824,Directed
 Papa John,Prinny,1,23824,Directed
+Providence,No,2,23827,Directed
+Providence,Xin,2,23827,Directed
 doN,Samwise,1,23895,Directed
 doN,Santa,1,23895,Directed
 Bloogles,deuterium,1,23901,Directed
@@ -1610,7 +1628,6 @@ Kvothe Sixstring,Yukino Yukinoshita,3,24091,Directed
 Goose,JC,1,24113,Directed
 Goose,ЯIP,1,24113,Directed
 JukeSkywalker,James,1,24120,Directed
-Faith,paloralogram,1,24131,Directed
 Axosh,JC,1,24133,Directed
 Axosh,aaron,1,24133,Directed
 A N D R E W  S A L A D,Sasha,1,24139,Directed
@@ -1624,7 +1641,6 @@ Rizwanovich,Icarus-,1,24227,Directed
 Ares,Caturday Yet?,2,24228,Directed
 StoopidVarrior,R,1,24239,Directed
 Skye,JJ,1,24251,Directed
-Ruby,Car Radio,1,24253,Directed
 Sophiel,CHI LONG QUA,2,24258,Directed
 Clueless,SouL,3,24262,Directed
 Clueless,ツ,3,24262,Directed
